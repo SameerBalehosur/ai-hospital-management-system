@@ -1,18 +1,27 @@
 # Day 01 Progress
 
+## Objectives
+
+- Initialize repository
+- Create enterprise folder structure
+- Create documentation
+- Finalize technology stack
+- Create Authentication Service
+
 ## Completed
 
-- Initialized Git repository
-- Created enterprise project structure
-- Added project documentation
-- Finalized technology stack
+- Git repository initialized
+- Main and Develop branches created
+- Enterprise folder structure created
+- Documentation structure created
 
 ## Pending
 
-- Authentication Service
-- PostgreSQL Setup
-- JWT Authentication
+- Complete documentation
+- Create Authentication Service
+- Configure PostgreSQL
+- Verify application startup
 
 ## Notes
 
-Project initialized successfully.
+Project initialization is in progress.
